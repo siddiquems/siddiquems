@@ -8,9 +8,10 @@ I'm specialized I have a specialization in bioinformatics. I have experience in 
 ##### My Projects
 
 Here are some of the projects I've worked on:
-- Store : Online Store application programmed with PHP
-- Events manager : Web application of events manager created with Angular
-- Laravel
+- Online Store: An online store built with PHP that allows users to browse and purchase products.
+- Events Manager: A web application built with Angular that helps users manage and organize events.
+- League Manager: A web app built with Laravel that helps users manage their sports leagues.
+- Tool for Sequence Alignment: A web-based tool that allows users to align sequences and perform basic sequence analysis.
 
 ##### Skills
 
